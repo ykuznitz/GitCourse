@@ -1,2 +1,2 @@
 # GitCourse
-training github
+training on github course
