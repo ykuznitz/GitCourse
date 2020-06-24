@@ -1,7 +1,8 @@
 <<<<<<< HEAD
-# GitCourse
+# GitCourse 
 training on github course
-editted again
+editted again on 24/6/2020
+
 =======
 The Moby Project
 ================
